@@ -2,6 +2,10 @@
 
 ### Usage
 
+Install dependencies:
+
+pnpm i
+
 Start the project:
 
 ```
