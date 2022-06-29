@@ -1,0 +1,13 @@
+{
+  "name": "fresh-demo",
+  "version": "1.0.0",
+  "description": "Deno with linter",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@antfu/eslint-config": "^0.25.2",
+    "eslint": "^8.18.0",
+    "typescript": "^4.7.4"
+  }
+}
